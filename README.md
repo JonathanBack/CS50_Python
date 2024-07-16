@@ -1,5 +1,4 @@
 # BMI Calculator and Tracker
-#### Video Demo:  <https://www.youtube.com/watch?v=98S7JpGz1SY>
 
 #### Description:
 This Python project calculates Body Mass Index (BMI) based on user-provided height and weight, supports both metric and imperial units, and tracks BMI over time in a CSV file. It also includes classification of BMI into categories such as underweight, normal weight, overweight, and three classes of obesity.
